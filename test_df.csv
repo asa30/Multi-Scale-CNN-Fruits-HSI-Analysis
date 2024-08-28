@@ -1,0 +1,260 @@
+id,fruit,side,day,camera_type,header_file,data_file,record_id,init_weight,end_weight,storage_days,firmness,comment,ripeness_state,ripeness_state_fine,img_shape,ripeness_state_y,is_damaged
+0,Avocado,back,day_03,NIR,Avocado/NIR/day_03/avocado_day_03_05_back.hdr,Avocado/NIR/day_03/avocado_day_03_05_back.bin,0,231,224.0,2,1200.0,,perfect,ripe,"(328, 191, 252)",1,0
+1,Avocado,front,day_03,NIR,Avocado/NIR/day_03/avocado_day_03_13_front.hdr,Avocado/NIR/day_03/avocado_day_03_13_front.bin,1,240,231.0,2,4450.0,,unripe,unripe,"(304, 195, 252)",0,0
+2,Kiwi,front,day_03,NIR,Kiwi/NIR/day_03/kiwi_day_03_07_front.hdr,Kiwi/NIR/day_03/kiwi_day_03_07_front.bin,2,123,121.0,2,150.0,Could be also ripe,overripe,overripe,"(202, 153, 252)",2,0
+3,Kiwi,back,day_03,VIS,Kiwi/VIS/day_03/kiwi_day_03_23_back.hdr,Kiwi/VIS/day_03/kiwi_day_03_23_back.bin,3,127,126.0,2,1750.0,,perfect,ripe,"(243, 234, 224)",1,0
+4,Kiwi,back,day_04,NIR,Kiwi/NIR/day_04/kiwi_day_04_12_back.hdr,Kiwi/NIR/day_04/kiwi_day_04_12_back.bin,4,124,122.0,3,1150.0,,perfect,perfect,"(201, 164, 252)",1,0
+5,Kiwi,front,day_04,VIS,Kiwi/VIS/day_04/kiwi_day_04_13_front.hdr,Kiwi/VIS/day_04/kiwi_day_04_13_front.bin,5,120,117.0,3,800.0,,overripe,near_overripe,"(230, 248, 224)",2,0
+6,Kiwi,back,day_04,VIS,Kiwi/VIS/day_04/kiwi_day_04_13_back.hdr,Kiwi/VIS/day_04/kiwi_day_04_13_back.bin,6,120,117.0,3,800.0,,overripe,near_overripe,"(226, 249, 224)",2,0
+7,Kiwi,back,day_04,VIS,Kiwi/VIS/day_04/kiwi_day_04_18_back.hdr,Kiwi/VIS/day_04/kiwi_day_04_18_back.bin,7,133,132.0,3,2050.0,no comment,unripe,unripe,"(227, 270, 224)",0,0
+8,Kiwi,front,day_04,VIS,Kiwi/VIS/day_04/kiwi_day_04_29_front.hdr,Kiwi/VIS/day_04/kiwi_day_04_29_front.bin,8,132,130.0,3,1950.0,,perfect,ripe,"(240, 259, 224)",1,0
+9,Avocado,front,day_05,NIR,Avocado/NIR/day_05/avocado_day_05_03_front.hdr,Avocado/NIR/day_05/avocado_day_05_03_front.bin,9,247,232.0,4,5100.0,,unripe,unripe,"(280, 203, 252)",0,0
+10,Avocado,front,day_05,VIS,Avocado/VIS/day_05/avocado_day_05_03_front.hdr,Avocado/VIS/day_05/avocado_day_05_03_front.bin,10,247,232.0,4,5100.0,,unripe,unripe,"(320, 298, 224)",0,0
+11,Avocado,back,day_05,NIR,Avocado/NIR/day_05/avocado_day_05_03_back.hdr,Avocado/NIR/day_05/avocado_day_05_03_back.bin,11,247,232.0,4,5100.0,,unripe,unripe,"(284, 204, 252)",0,0
+12,Avocado,back,day_05,VIS,Avocado/VIS/day_05/avocado_day_05_03_back.hdr,Avocado/VIS/day_05/avocado_day_05_03_back.bin,12,247,232.0,4,5100.0,,unripe,unripe,"(325, 297, 224)",0,0
+13,Avocado,back,day_05,VIS,Avocado/VIS/day_05/avocado_day_05_23_back.hdr,Avocado/VIS/day_05/avocado_day_05_23_back.bin,13,243,232.0,4,14500.0,,unripe,unripe,"(370, 292, 224)",0,0
+14,Kiwi,front,day_05,NIR,Kiwi/NIR/day_05/kiwi_day_05_02_front.hdr,Kiwi/NIR/day_05/kiwi_day_05_02_front.bin,14,117,115.0,4,1400.0,no comment,perfect,perfect,"(185, 165, 252)",1,0
+15,Kiwi,front,day_05,VIS,Kiwi/VIS/day_05/kiwi_day_05_05_front.hdr,Kiwi/VIS/day_05/kiwi_day_05_05_front.bin,15,119,117.0,4,1200.0,,perfect,perfect,"(213, 245, 224)",1,0
+16,Kiwi,back,day_05,NIR,Kiwi/NIR/day_05/kiwi_day_05_08_back.hdr,Kiwi/NIR/day_05/kiwi_day_05_08_back.bin,16,124,122.0,4,1700.0,,perfect,perfect,"(198, 156, 252)",1,0
+17,Kiwi,front,day_05,NIR,Kiwi/NIR/day_05/kiwi_day_05_26_front.hdr,Kiwi/NIR/day_05/kiwi_day_05_26_front.bin,17,135,133.0,4,1650.0,,unripe,unripe,"(201, 167, 252)",0,0
+18,Kiwi,back,day_05,VIS,Kiwi/VIS/day_05/kiwi_day_05_26_back.hdr,Kiwi/VIS/day_05/kiwi_day_05_26_back.bin,18,135,133.0,4,1650.0,,unripe,unripe,"(233, 247, 224)",0,0
+19,Kiwi,front,day_05,NIR,Kiwi/NIR/day_05/kiwi_day_05_32_front.hdr,Kiwi/NIR/day_05/kiwi_day_05_32_front.bin,19,125,123.0,4,1500.0,near ripe,unripe,unripe,"(189, 173, 252)",0,0
+20,Kiwi,back,day_05,VIS,Kiwi/VIS/day_05/kiwi_day_05_32_back.hdr,Kiwi/VIS/day_05/kiwi_day_05_32_back.bin,20,125,123.0,4,1500.0,near ripe,unripe,unripe,"(222, 259, 224)",0,0
+21,Avocado,front,day_06,VIS,Avocado/VIS/day_06/avocado_day_06_06_front.hdr,Avocado/VIS/day_06/avocado_day_06_06_front.bin,21,234,215.0,5,900.0,,perfect,perfect,"(351, 285, 224)",1,0
+22,Avocado,front,day_06,NIR,Avocado/NIR/day_06/avocado_day_06_19_front.hdr,Avocado/NIR/day_06/avocado_day_06_19_front.bin,22,195,177.0,5,700.0,,perfect,perfect,"(270, 180, 252)",1,0
+23,Avocado,back,day_06,VIS,Avocado/VIS/day_06/avocado_day_06_25_back.hdr,Avocado/VIS/day_06/avocado_day_06_25_back.bin,23,249,231.0,5,900.0,,perfect,perfect,"(340, 294, 224)",1,0
+24,Kiwi,back,day_06,VIS,Kiwi/VIS/day_06/kiwi_day_06_11_back.hdr,Kiwi/VIS/day_06/kiwi_day_06_11_back.bin,24,120,116.0,5,950.0,,perfect,perfect,"(234, 233, 224)",1,0
+25,Kiwi,back,day_06,VIS,Kiwi/VIS/day_06/kiwi_day_06_20_back.hdr,Kiwi/VIS/day_06/kiwi_day_06_20_back.bin,25,124,121.0,5,750.0,,overripe,overripe,"(232, 252, 224)",2,0
+26,Kiwi,front,day_06,VIS,Kiwi/VIS/day_06/kiwi_day_06_36_front.hdr,Kiwi/VIS/day_06/kiwi_day_06_36_front.bin,26,127,125.0,5,1500.0,,perfect,ripe,"(229, 235, 224)",1,0
+27,Avocado,back,day_07,VIS,Avocado/VIS/day_07/avocado_day_07_02_back.hdr,Avocado/VIS/day_07/avocado_day_07_02_back.bin,27,255,229.0,7,750.0,,perfect,perfect,"(331, 293, 224)",1,0
+28,Avocado,back,day_07,NIR,Avocado/NIR/day_07/avocado_day_07_27_back.hdr,Avocado/NIR/day_07/avocado_day_07_27_back.bin,28,245,223.0,7,1050.0,,perfect,perfect,"(284, 196, 252)",1,0
+29,Kiwi,back,day_07,VIS,Kiwi/VIS/day_07/kiwi_day_07_16_back.hdr,Kiwi/VIS/day_07/kiwi_day_07_16_back.bin,29,117,114.0,7,0.0,,overripe,overripe,"(233, 235, 224)",2,0
+30,Kiwi,back,day_07,NIR,Kiwi/NIR/day_07/kiwi_day_07_24_back.hdr,Kiwi/NIR/day_07/kiwi_day_07_24_back.bin,30,125,122.0,7,1650.0,not really ripe is too firm,unripe,unripe,"(193, 171, 252)",0,0
+31,Avocado,back,day_08,NIR,Avocado/NIR/day_08/avocado_day_08_10_back.hdr,Avocado/NIR/day_08/avocado_day_08_10_back.bin,31,229,202.0,8,700.0,,overripe,near_overripe,"(277, 191, 252)",2,0
+32,Avocado,front,day_08,NIR,Avocado/NIR/day_08/avocado_day_08_28_front.hdr,Avocado/NIR/day_08/avocado_day_08_28_front.bin,32,250,218.0,8,725.0,,overripe,near_overripe,"(280, 194, 252)",2,0
+33,Avocado,front,day_09,VIS,Avocado/VIS/day_09/avocado_day_09_22_front.hdr,Avocado/VIS/day_09/avocado_day_09_22_front.bin,33,237,208.0,9,775.0,,overripe,near_overripe,"(353, 269, 224)",2,0
+34,Avocado,back,day_09,VIS,Avocado/VIS/day_09/avocado_day_09_22_back.hdr,Avocado/VIS/day_09/avocado_day_09_22_back.bin,34,237,208.0,9,775.0,,overripe,near_overripe,"(355, 266, 224)",2,0
+35,Avocado,front,day_10,NIR,Avocado/NIR/day_10/avocado_day_10_07_front.hdr,Avocado/NIR/day_10/avocado_day_10_07_front.bin,35,243,195.0,10,625.0,maybe endweight not correct,overripe,overripe,"(273, 196, 252)",2,0
+36,Avocado,front,day_10,VIS,Avocado/VIS/day_10/avocado_day_10_07_front.hdr,Avocado/VIS/day_10/avocado_day_10_07_front.bin,36,243,195.0,10,625.0,maybe endweight not correct,overripe,overripe,"(312, 287, 224)",2,0
+37,Kiwi,front,day_10,NIR,Kiwi/NIR/day_10/kiwi_day_10_27_front.hdr,Kiwi/NIR/day_10/kiwi_day_10_27_front.bin,37,134,129.0,10,800.0,,overripe,near_overripe,"(189, 166, 252)",2,0
+38,Kiwi,back,day_10,NIR,Kiwi/NIR/day_10/kiwi_day_10_27_back.hdr,Kiwi/NIR/day_10/kiwi_day_10_27_back.bin,38,134,129.0,10,800.0,,overripe,near_overripe,"(192, 169, 252)",2,0
+39,Kiwi,back,day_m2_01,VIS,Kiwi/VIS/day_m2_01/kiwi_day_m2_01_71_back.hdr,Kiwi/VIS/day_m2_01/kiwi_day_m2_01_71_back.bin,39,103,103.0,0,1900.0,,unripe,unripe,"(273, 202, 224)",0,0
+40,Avocado,back,day_m2_02,VIS,Avocado/VIS/day_m2_02/avocado_day_m2_02_33_back.hdr,Avocado/VIS/day_m2_02/avocado_day_m2_02_33_back.bin,40,246,150.0,1,1400.0,,unripe,unripe,"(433, 239, 224)",0,0
+41,Avocado,back,day_m2_03,VIS,Avocado/VIS/day_m2_03/avocado_day_m2_03_52_back.hdr,Avocado/VIS/day_m2_03/avocado_day_m2_03_52_back.bin,41,250,244.0,2,1775.0,,unripe,unripe,"(477, 233, 224)",0,0
+42,Avocado,back,day_m2_04,VIS,Avocado/VIS/day_m2_04/avocado_day_m2_04_43_back.hdr,Avocado/VIS/day_m2_04/avocado_day_m2_04_43_back.bin,42,212,204.0,3,600.0,,perfect,ripe,"(423, 226, 224)",1,0
+43,Kiwi,front,day_m2_05,VIS,Kiwi/VIS/day_m2_05/kiwi_day_m2_05_51_front.hdr,Kiwi/VIS/day_m2_05/kiwi_day_m2_05_51_front.bin,43,106,105.0,4,1625.0,,unripe,unripe,"(269, 194, 224)",0,0
+44,Avocado,back,day_m2_06,VIS,Avocado/VIS/day_m2_06/avocado_day_m2_06_46_back.hdr,Avocado/VIS/day_m2_06/avocado_day_m2_06_46_back.bin,44,205,194.0,5,0.0,more than one day damaged!,overripe,overripe,"(383, 234, 224)",2,1
+45,Avocado,back,day_m2_07,VIS,Avocado/VIS/day_m2_07/avocado_day_m2_07_45_back.hdr,Avocado/VIS/day_m2_07/avocado_day_m2_07_45_back.bin,45,246,222.0,7,750.0,,perfect,perfect,"(476, 224, 224)",1,0
+46,Kiwi,front,day_m2_08,VIS,Kiwi/VIS/day_m2_08/kiwi_day_m2_08_63_front.hdr,Kiwi/VIS/day_m2_08/kiwi_day_m2_08_63_front.bin,46,106,102.0,8,775.0,,overripe,overripe,"(267, 191, 224)",2,0
+47,Avocado,front,day_m2_10,VIS,Avocado/VIS/day_m2_10/avocado_day_m2_10_44_front.hdr,Avocado/VIS/day_m2_10/avocado_day_m2_10_44_front.bin,47,200,157.0,10,0.0,,overripe,overripe,"(372, 233, 224)",2,0
+48,Kiwi,front,day_m2_10,VIS,Kiwi/VIS/day_m2_10/kiwi_day_m2_10_46_front.hdr,Kiwi/VIS/day_m2_10/kiwi_day_m2_10_46_front.bin,48,105,102.0,10,2200.0,,unripe,unripe,"(263, 193, 224)",0,0
+49,Kiwi,back,day_m2_10,VIS,Kiwi/VIS/day_m2_10/kiwi_day_m2_10_55_back.hdr,Kiwi/VIS/day_m2_10/kiwi_day_m2_10_55_back.bin,49,111,108.0,10,1800.0,,unripe,unripe,"(258, 188, 224)",0,0
+50,Kiwi,back,day_m2_11,VIS,Kiwi/VIS/day_m2_11/kiwi_day_m2_11_68_back.hdr,Kiwi/VIS/day_m2_11/kiwi_day_m2_11_68_back.bin,50,100,95.0,11,600.0,,overripe,overripe,"(247, 187, 224)",2,0
+51,Kiwi,back,day_m2_11,VIS,Kiwi/VIS/day_m2_11/kiwi_day_m2_11_73_back.hdr,Kiwi/VIS/day_m2_11/kiwi_day_m2_11_73_back.bin,51,122,117.0,11,1900.0,,perfect,ripe,"(279, 191, 224)",1,0
+52,Kiwi,back,day_m2_12,VIS,Kiwi/VIS/day_m2_12/kiwi_day_m2_12_76_back.hdr,Kiwi/VIS/day_m2_12/kiwi_day_m2_12_76_back.bin,52,123,117.0,12,2300.0,,unripe,unripe,"(287, 204, 224)",0,0
+53,Kiwi,front,day_m2_15,VIS,Kiwi/VIS/day_m2_15/kiwi_day_m2_15_45_front.hdr,Kiwi/VIS/day_m2_15/kiwi_day_m2_15_45_front.bin,53,115,108.0,16,500.0,,overripe,overripe,"(284, 196, 224)",2,0
+54,Kiwi,back,day_m2_16,VIS,Kiwi/VIS/day_m2_16/kiwi_day_m2_16_48_back.hdr,Kiwi/VIS/day_m2_16/kiwi_day_m2_16_48_back.bin,54,113,,17,,,overripe,overripe,"(277, 182, 224)",2,0
+55,Kiwi,back,day_m2_16,VIS,Kiwi/VIS/day_m2_16/kiwi_day_m2_16_50_back.hdr,Kiwi/VIS/day_m2_16/kiwi_day_m2_16_50_back.bin,55,117,109.0,17,1750.0,,perfect,ripe,"(254, 197, 224)",1,0
+56,Kiwi,front,day_m2_16,VIS,Kiwi/VIS/day_m2_16/kiwi_day_m2_16_57_front.hdr,Kiwi/VIS/day_m2_16/kiwi_day_m2_16_57_front.bin,56,111,103.0,17,2450.0,,perfect,ripe,"(242, 193, 224)",1,0
+57,Kaki,back,day_2_m3,VIS,Kaki/VIS/day_2_m3/kaki_day_2_m3_01_back.hdr,Kaki/VIS/day_2_m3/kaki_day_2_m3_01_back.bin,57,130,129.0,1,2050.0,,unripe,unripe,"(64, 64, 224)",0,0
+58,Kaki,front,day_2_m3,VIS,Kaki/VIS/day_2_m3/kaki_day_2_m3_03_front.hdr,Kaki/VIS/day_2_m3/kaki_day_2_m3_03_front.bin,58,111,111.0,1,1700.0,,unripe,unripe,"(64, 64, 224)",0,0
+59,Kaki,back,day_2_m3,VIS,Kaki/VIS/day_2_m3/kaki_day_2_m3_03_back.hdr,Kaki/VIS/day_2_m3/kaki_day_2_m3_03_back.bin,59,111,111.0,1,1700.0,,unripe,unripe,"(64, 64, 224)",0,0
+60,Kaki,back,day_2_m3,VIS_COR,Kaki/VIS_COR/day_2_m3/kaki_day_2_m3_03_back.hdr,Kaki/VIS_COR/day_2_m3/kaki_day_2_m3_03_back.bin,60,111,111.0,1,1700.0,,unripe,unripe,"(64, 64, 249)",0,0
+61,Kaki,front,day_9_m3,VIS_COR,Kaki/VIS_COR/day_9_m3/kaki_day_9_m3_04_front.hdr,Kaki/VIS_COR/day_9_m3/kaki_day_9_m3_04_front.bin,61,137,122.0,8,0.0,,overripe,overripe,"(64, 64, 249)",2,0
+62,Kaki,back,day_4_m3,VIS,Kaki/VIS/day_4_m3/kaki_day_4_m3_07_back.hdr,Kaki/VIS/day_4_m3/kaki_day_4_m3_07_back.bin,62,129,124.0,3,0.0,,overripe,near_overripe,"(64, 64, 224)",2,0
+63,Kaki,front,day_4_m3,VIS_COR,Kaki/VIS_COR/day_4_m3/kaki_day_4_m3_07_front.hdr,Kaki/VIS_COR/day_4_m3/kaki_day_4_m3_07_front.bin,63,129,124.0,3,0.0,,overripe,near_overripe,"(64, 64, 249)",2,0
+64,Kaki,back,day_3_m3,VIS,Kaki/VIS/day_3_m3/kaki_day_3_m3_10_back.hdr,Kaki/VIS/day_3_m3/kaki_day_3_m3_10_back.bin,64,115,111.0,2,150.0,,overripe,overripe,"(64, 64, 224)",2,0
+65,Kaki,front,day_5_m3,VIS_COR,Kaki/VIS_COR/day_5_m3/kaki_day_5_m3_13_front.hdr,Kaki/VIS_COR/day_5_m3/kaki_day_5_m3_13_front.bin,65,132,123.0,4,1400.0,,perfect,ripe,"(64, 64, 249)",1,0
+66,Kaki,front,day_4_m3,VIS,Kaki/VIS/day_4_m3/kaki_day_4_m3_14_front.hdr,Kaki/VIS/day_4_m3/kaki_day_4_m3_14_front.bin,66,121,116.0,3,800.0,,perfect,ripe,"(64, 64, 224)",1,0
+67,Kaki,front,day_4_m3,VIS_COR,Kaki/VIS_COR/day_4_m3/kaki_day_4_m3_14_front.hdr,Kaki/VIS_COR/day_4_m3/kaki_day_4_m3_14_front.bin,67,121,116.0,3,800.0,,perfect,ripe,"(64, 64, 249)",1,0
+68,Kaki,back,day_2_m3,VIS_COR,Kaki/VIS_COR/day_2_m3/kaki_day_2_m3_21_back.hdr,Kaki/VIS_COR/day_2_m3/kaki_day_2_m3_21_back.bin,68,119,119.0,1,1250.0,,perfect,ripe,"(64, 64, 249)",1,0
+69,Kaki,front,day_8_m3,VIS_COR,Kaki/VIS_COR/day_8_m3/kaki_day_8_m3_22_front.hdr,Kaki/VIS_COR/day_8_m3/kaki_day_8_m3_22_front.bin,69,124,112.0,7,0.0,,overripe,overripe,"(64, 64, 249)",2,0
+70,Kaki,front,day_7_m3,VIS,Kaki/VIS/day_7_m3/kaki_day_7_m3_23_front.hdr,Kaki/VIS/day_7_m3/kaki_day_7_m3_23_front.bin,70,121,113.0,6,0.0,,overripe,overripe,"(64, 64, 224)",2,0
+71,Kaki,back,day_9_m3,VIS_COR,Kaki/VIS_COR/day_9_m3/kaki_day_9_m3_25_back.hdr,Kaki/VIS_COR/day_9_m3/kaki_day_9_m3_25_back.bin,71,111,102.0,8,0.0,,perfect,ripe,"(64, 64, 249)",1,0
+72,Kaki,back,day_5_m3,VIS,Kaki/VIS/day_5_m3/kaki_day_5_m3_26_back.hdr,Kaki/VIS/day_5_m3/kaki_day_5_m3_26_back.bin,72,129,122.0,4,924.0,,unripe,unripe,"(64, 64, 224)",0,0
+73,Kaki,back,day_5_m3,VIS_COR,Kaki/VIS_COR/day_5_m3/kaki_day_5_m3_26_back.hdr,Kaki/VIS_COR/day_5_m3/kaki_day_5_m3_26_back.bin,73,129,122.0,4,924.0,,unripe,unripe,"(64, 64, 249)",0,0
+74,Kaki,back,day_7_m3,VIS,Kaki/VIS/day_7_m3/kaki_day_7_m3_27_back.hdr,Kaki/VIS/day_7_m3/kaki_day_7_m3_27_back.bin,74,129,120.0,6,625.0,,perfect,ripe,"(64, 64, 224)",1,0
+75,Kaki,front,day_4_m3,VIS_COR,Kaki/VIS_COR/day_4_m3/kaki_day_4_m3_30_front.hdr,Kaki/VIS_COR/day_4_m3/kaki_day_4_m3_30_front.bin,75,134,128.0,3,1350.0,,unripe,unripe,"(64, 64, 249)",0,0
+76,Kaki,back,day_4_m3,VIS_COR,Kaki/VIS_COR/day_4_m3/kaki_day_4_m3_30_back.hdr,Kaki/VIS_COR/day_4_m3/kaki_day_4_m3_30_back.bin,76,134,128.0,3,1350.0,,unripe,unripe,"(64, 64, 249)",0,0
+77,Kaki,back,day_9_m3,VIS,Kaki/VIS/day_9_m3/kaki_day_9_m3_32_back.hdr,Kaki/VIS/day_9_m3/kaki_day_9_m3_32_back.bin,77,128,114.0,8,1950.0,,perfect,ripe,"(64, 64, 224)",1,0
+78,Kaki,front,day_7_m3,VIS,Kaki/VIS/day_7_m3/kaki_day_7_m3_37_front.hdr,Kaki/VIS/day_7_m3/kaki_day_7_m3_37_front.bin,78,132,120.0,6,1075.0,,perfect,ripe,"(64, 64, 224)",1,0
+79,Kaki,front,day_7_m3,VIS,Kaki/VIS/day_7_m3/kaki_day_7_m3_39_front.hdr,Kaki/VIS/day_7_m3/kaki_day_7_m3_39_front.bin,79,109,101.0,6,0.0,,overripe,overripe,"(64, 64, 224)",2,0
+80,Kaki,front,day_7_m3,VIS_COR,Kaki/VIS_COR/day_7_m3/kaki_day_7_m3_39_front.hdr,Kaki/VIS_COR/day_7_m3/kaki_day_7_m3_39_front.bin,80,109,101.0,6,0.0,,overripe,overripe,"(64, 64, 249)",2,0
+81,Mango,front,day_9_m3,VIS,Mango/VIS/day_9_m3/mango_day_9_m3_04_front.hdr,Mango/VIS/day_9_m3/mango_day_9_m3_04_front.bin,81,470,445.0,8,14200.0,,unripe,unripe,"(64, 64, 224)",0,0
+82,Mango,back,day_9_m3,VIS_COR,Mango/VIS_COR/day_9_m3/mango_day_9_m3_04_back.hdr,Mango/VIS_COR/day_9_m3/mango_day_9_m3_04_back.bin,82,470,445.0,8,14200.0,,unripe,unripe,"(64, 64, 249)",0,0
+83,Mango,front,day_10_m3,VIS,Mango/VIS/day_10_m3/mango_day_10_m3_12_front.hdr,Mango/VIS/day_10_m3/mango_day_10_m3_12_front.bin,83,405,379.0,9,5800.0,,perfect,ripe,"(64, 64, 224)",1,0
+84,Mango,back,day_5_m3,VIS,Mango/VIS/day_5_m3/mango_day_5_m3_13_back.hdr,Mango/VIS/day_5_m3/mango_day_5_m3_13_back.bin,84,471,454.0,4,11350.0,,unripe,unripe,"(64, 64, 224)",0,0
+85,Mango,back,day_12_m3,VIS,Mango/VIS/day_12_m3/mango_day_12_m3_14_back.hdr,Mango/VIS/day_12_m3/mango_day_12_m3_14_back.bin,85,443,379.0,11,8600.0,,overripe,overripe,"(64, 64, 224)",2,0
+86,Mango,back,day_1_m3,VIS,Mango/VIS/day_1_m3/mango_day_1_m3_19_back.hdr,Mango/VIS/day_1_m3/mango_day_1_m3_19_back.bin,86,399,397.0,0,12050.0,,perfect,ripe,"(64, 64, 224)",1,0
+87,Mango,front,day_4_m3,VIS_COR,Mango/VIS_COR/day_4_m3/mango_day_4_m3_20_front.hdr,Mango/VIS_COR/day_4_m3/mango_day_4_m3_20_front.bin,87,435,422.0,3,5600.0,,overripe,overripe,"(64, 64, 249)",2,0
+88,Mango,back,day_4_m3,VIS_COR,Mango/VIS_COR/day_4_m3/mango_day_4_m3_20_back.hdr,Mango/VIS_COR/day_4_m3/mango_day_4_m3_20_back.bin,88,435,422.0,3,5600.0,,overripe,overripe,"(64, 64, 249)",2,0
+89,Mango,back,day_8_m3,VIS_COR,Mango/VIS_COR/day_8_m3/mango_day_8_m3_22_back.hdr,Mango/VIS_COR/day_8_m3/mango_day_8_m3_22_back.bin,89,443,416.0,7,12800.0,,unripe,unripe,"(64, 64, 249)",0,0
+90,Mango,back,day_7_m3,VIS,Mango/VIS/day_7_m3/mango_day_7_m3_23_back.hdr,Mango/VIS/day_7_m3/mango_day_7_m3_23_back.bin,90,389,374.0,6,11300.0,,perfect,ripe,"(64, 64, 224)",1,0
+91,Mango,back,day_7_m3,VIS_COR,Mango/VIS_COR/day_7_m3/mango_day_7_m3_23_back.hdr,Mango/VIS_COR/day_7_m3/mango_day_7_m3_23_back.bin,91,389,374.0,6,11300.0,,perfect,ripe,"(64, 64, 249)",1,0
+92,Mango,back,day_9_m3,VIS_COR,Mango/VIS_COR/day_9_m3/mango_day_9_m3_25_back.hdr,Mango/VIS_COR/day_9_m3/mango_day_9_m3_25_back.bin,92,402,367.0,8,10400.0,,perfect,ripe,"(64, 64, 249)",1,0
+93,Mango,back,day_7_m3,VIS_COR,Mango/VIS_COR/day_7_m3/mango_day_7_m3_27_back.hdr,Mango/VIS_COR/day_7_m3/mango_day_7_m3_27_back.bin,93,403,381.0,6,18800.0,,unripe,unripe,"(64, 64, 249)",0,0
+94,Mango,front,day_11_m3,VIS_COR,Mango/VIS_COR/day_11_m3/mango_day_11_m3_28_front.hdr,Mango/VIS_COR/day_11_m3/mango_day_11_m3_28_front.bin,94,442,407.0,10,4900.0,,perfect,ripe,"(64, 64, 249)",1,0
+95,Mango,back,day_7_m3,VIS_COR,Mango/VIS_COR/day_7_m3/mango_day_7_m3_29_back.hdr,Mango/VIS_COR/day_7_m3/mango_day_7_m3_29_back.bin,95,425,405.0,6,7699.0,,unripe,unripe,"(64, 64, 249)",0,0
+96,Mango,front,day_12_m3,VIS,Mango/VIS/day_12_m3/mango_day_12_m3_30_front.hdr,Mango/VIS/day_12_m3/mango_day_12_m3_30_front.bin,96,436,367.0,11,4200.0,,overripe,overripe,"(64, 64, 224)",2,0
+97,Mango,back,day_12_m3,VIS,Mango/VIS/day_12_m3/mango_day_12_m3_30_back.hdr,Mango/VIS/day_12_m3/mango_day_12_m3_30_back.bin,97,436,367.0,11,4200.0,,overripe,overripe,"(64, 64, 224)",2,0
+98,Mango,back,day_12_m3,VIS,Mango/VIS/day_12_m3/mango_day_12_m3_31_back.hdr,Mango/VIS/day_12_m3/mango_day_12_m3_31_back.bin,98,412,361.0,11,3000.0,,overripe,overripe,"(64, 64, 224)",2,0
+99,Mango,front,day_9_m3,VIS,Mango/VIS/day_9_m3/mango_day_9_m3_34_front.hdr,Mango/VIS/day_9_m3/mango_day_9_m3_34_front.bin,99,462,424.0,8,16900.0,,unripe,unripe,"(64, 64, 224)",0,0
+100,Mango,back,day_12_m3,VIS_COR,Mango/VIS_COR/day_12_m3/mango_day_12_m3_35_back.hdr,Mango/VIS_COR/day_12_m3/mango_day_12_m3_35_back.bin,100,447,379.0,11,2500.0,,overripe,overripe,"(64, 64, 249)",2,0
+101,Mango,front,day_7_m3,VIS,Mango/VIS/day_7_m3/mango_day_7_m3_37_front.hdr,Mango/VIS/day_7_m3/mango_day_7_m3_37_front.bin,101,494,469.0,6,3800.0,,perfect,ripe,"(64, 64, 224)",1,0
+102,Mango,front,day_7_m3,VIS_COR,Mango/VIS_COR/day_7_m3/mango_day_7_m3_37_front.hdr,Mango/VIS_COR/day_7_m3/mango_day_7_m3_37_front.bin,102,494,469.0,6,3800.0,,perfect,ripe,"(64, 64, 249)",1,0
+103,Mango,front,day_11_m3,VIS,Mango/VIS/day_11_m3/mango_day_11_m3_38_front.hdr,Mango/VIS/day_11_m3/mango_day_11_m3_38_front.bin,103,426,395.0,10,9750.0,,unripe,unripe,"(64, 64, 224)",0,0
+104,Mango,front,day_10_m3,VIS_COR,Mango/VIS_COR/day_10_m3/mango_day_10_m3_40_front.hdr,Mango/VIS_COR/day_10_m3/mango_day_10_m3_40_front.bin,104,387,345.0,9,4100.0,,overripe,overripe,"(64, 64, 249)",2,0
+105,Avocado,front,day_m4_01,VIS_COR,Avocado/VIS_COR/day_m4_01/avocado_day_m4_01_22_front.hdr,Avocado/VIS_COR/day_m4_01/avocado_day_m4_01_22_front.bin,105,301,313.0,0,800.0,"weight does not match, exchanged?",perfect,ripe,"(128, 86, 249)",1,0
+106,Avocado,front,day_m4_01,VIS,Avocado/VIS/day_m4_01/avocado_day_m4_01_22_front.hdr,Avocado/VIS/day_m4_01/avocado_day_m4_01_22_front.bin,106,301,313.0,0,800.0,"weight does not match, exchanged?",perfect,ripe,"(432, 255, 224)",1,0
+107,Avocado,back,day_m4_01,VIS_COR,Avocado/VIS_COR/day_m4_01/avocado_day_m4_01_22_back.hdr,Avocado/VIS_COR/day_m4_01/avocado_day_m4_01_22_back.bin,107,301,313.0,0,800.0,"weight does not match, exchanged?",perfect,ripe,"(128, 86, 249)",1,0
+108,Avocado,back,day_m4_01,VIS,Avocado/VIS/day_m4_01/avocado_day_m4_01_22_back.hdr,Avocado/VIS/day_m4_01/avocado_day_m4_01_22_back.bin,108,301,313.0,0,800.0,"weight does not match, exchanged?",perfect,ripe,"(434, 256, 224)",1,0
+109,Avocado,front,day_m4_01,VIS_COR,Avocado/VIS_COR/day_m4_01/avocado_day_m4_01_29_front.hdr,Avocado/VIS_COR/day_m4_01/avocado_day_m4_01_29_front.bin,109,325,325.0,0,1000.0,,perfect,ripe,"(128, 74, 249)",1,0
+110,Avocado,front,day_m4_01,VIS,Avocado/VIS/day_m4_01/avocado_day_m4_01_29_front.hdr,Avocado/VIS/day_m4_01/avocado_day_m4_01_29_front.bin,110,325,325.0,0,1000.0,,perfect,ripe,"(497, 253, 224)",1,0
+111,Avocado,back,day_m4_01,VIS_COR,Avocado/VIS_COR/day_m4_01/avocado_day_m4_01_29_back.hdr,Avocado/VIS_COR/day_m4_01/avocado_day_m4_01_29_back.bin,111,325,325.0,0,1000.0,,perfect,ripe,"(128, 73, 249)",1,0
+112,Avocado,back,day_m4_01,VIS,Avocado/VIS/day_m4_01/avocado_day_m4_01_29_back.hdr,Avocado/VIS/day_m4_01/avocado_day_m4_01_29_back.bin,112,325,325.0,0,1000.0,,perfect,ripe,"(493, 251, 224)",1,0
+113,Papaya,back,day_m4_01,VIS_COR,Papaya/VIS_COR/day_m4_01/papaya_day_m4_01_19_back.hdr,Papaya/VIS_COR/day_m4_01/papaya_day_m4_01_19_back.bin,113,239,238.0,0,4500.0,,unripe,unripe,"(128, 66, 249)",0,0
+114,Papaya,back,day_m4_01,VIS,Papaya/VIS/day_m4_01/papaya_day_m4_01_19_back.hdr,Papaya/VIS/day_m4_01/papaya_day_m4_01_19_back.bin,114,239,238.0,0,4500.0,,unripe,unripe,"(488, 225, 224)",0,0
+115,Papaya,back,day_m4_01,VIS_COR,Papaya/VIS_COR/day_m4_01/papaya_day_m4_01_20_back.hdr,Papaya/VIS_COR/day_m4_01/papaya_day_m4_01_20_back.bin,115,480,480.0,0,1550.0,,unripe,unripe,"(128, 70, 249)",0,0
+116,Avocado,front,day_m4_02,VIS_COR,Avocado/VIS_COR/day_m4_02/avocado_day_m4_02_17_front.hdr,Avocado/VIS_COR/day_m4_02/avocado_day_m4_02_17_front.bin,116,313,291.0,1,650.0,,perfect,ripe,"(128, 85, 249)",1,0
+117,Avocado,front,day_m4_02,VIS,Avocado/VIS/day_m4_02/avocado_day_m4_02_17_front.hdr,Avocado/VIS/day_m4_02/avocado_day_m4_02_17_front.bin,117,313,291.0,1,650.0,,perfect,ripe,"(432, 255, 224)",1,0
+118,Avocado,back,day_m4_02,VIS_COR,Avocado/VIS_COR/day_m4_02/avocado_day_m4_02_17_back.hdr,Avocado/VIS_COR/day_m4_02/avocado_day_m4_02_17_back.bin,118,313,291.0,1,650.0,,perfect,ripe,"(128, 84, 249)",1,0
+119,Avocado,back,day_m4_02,VIS,Avocado/VIS/day_m4_02/avocado_day_m4_02_17_back.hdr,Avocado/VIS/day_m4_02/avocado_day_m4_02_17_back.bin,119,313,291.0,1,650.0,,perfect,ripe,"(426, 253, 224)",1,0
+120,Avocado,front,day_m4_02,VIS_COR,Avocado/VIS_COR/day_m4_02/avocado_day_m4_02_18_front.hdr,Avocado/VIS_COR/day_m4_02/avocado_day_m4_02_18_front.bin,120,314,306.0,1,500.0,,perfect,ripe,"(128, 85, 249)",1,0
+121,Avocado,front,day_m4_02,VIS,Avocado/VIS/day_m4_02/avocado_day_m4_02_18_front.hdr,Avocado/VIS/day_m4_02/avocado_day_m4_02_18_front.bin,121,314,306.0,1,500.0,,perfect,ripe,"(444, 255, 224)",1,0
+122,Avocado,back,day_m4_02,VIS_COR,Avocado/VIS_COR/day_m4_02/avocado_day_m4_02_18_back.hdr,Avocado/VIS_COR/day_m4_02/avocado_day_m4_02_18_back.bin,122,314,306.0,1,500.0,,perfect,ripe,"(128, 84, 249)",1,0
+123,Avocado,back,day_m4_02,VIS,Avocado/VIS/day_m4_02/avocado_day_m4_02_18_back.hdr,Avocado/VIS/day_m4_02/avocado_day_m4_02_18_back.bin,123,314,306.0,1,500.0,,perfect,ripe,"(442, 255, 224)",1,0
+124,Avocado,front,day_m4_02,VIS_COR,Avocado/VIS_COR/day_m4_02/avocado_day_m4_02_23_front.hdr,Avocado/VIS_COR/day_m4_02/avocado_day_m4_02_23_front.bin,124,310,303.0,1,700.0,,perfect,ripe,"(128, 87, 249)",1,0
+125,Avocado,front,day_m4_02,VIS,Avocado/VIS/day_m4_02/avocado_day_m4_02_23_front.hdr,Avocado/VIS/day_m4_02/avocado_day_m4_02_23_front.bin,125,310,303.0,1,700.0,,perfect,ripe,"(419, 251, 224)",1,0
+126,Avocado,back,day_m4_02,VIS_COR,Avocado/VIS_COR/day_m4_02/avocado_day_m4_02_23_back.hdr,Avocado/VIS_COR/day_m4_02/avocado_day_m4_02_23_back.bin,126,310,303.0,1,700.0,,perfect,ripe,"(128, 87, 249)",1,0
+127,Avocado,back,day_m4_02,VIS,Avocado/VIS/day_m4_02/avocado_day_m4_02_23_back.hdr,Avocado/VIS/day_m4_02/avocado_day_m4_02_23_back.bin,127,310,303.0,1,700.0,,perfect,ripe,"(420, 256, 224)",1,0
+128,Avocado,front,day_m4_03,VIS_COR,Avocado/VIS_COR/day_m4_03/avocado_day_m4_03_02_front.hdr,Avocado/VIS_COR/day_m4_03/avocado_day_m4_03_02_front.bin,128,288,274.0,2,1500.0,,unripe,unripe,"(128, 68, 249)",0,0
+129,Avocado,front,day_m4_03,VIS,Avocado/VIS/day_m4_03/avocado_day_m4_03_02_front.hdr,Avocado/VIS/day_m4_03/avocado_day_m4_03_02_front.bin,129,288,274.0,2,1500.0,,unripe,unripe,"(493, 232, 224)",0,0
+130,Avocado,back,day_m4_03,VIS_COR,Avocado/VIS_COR/day_m4_03/avocado_day_m4_03_02_back.hdr,Avocado/VIS_COR/day_m4_03/avocado_day_m4_03_02_back.bin,130,288,274.0,2,1500.0,,unripe,unripe,"(128, 69, 249)",0,0
+131,Avocado,back,day_m4_03,VIS,Avocado/VIS/day_m4_03/avocado_day_m4_03_02_back.hdr,Avocado/VIS/day_m4_03/avocado_day_m4_03_02_back.bin,131,288,274.0,2,1500.0,,unripe,unripe,"(486, 233, 224)",0,0
+132,Avocado,front,day_m4_03,VIS_COR,Avocado/VIS_COR/day_m4_03/avocado_day_m4_03_06_front.hdr,Avocado/VIS_COR/day_m4_03/avocado_day_m4_03_06_front.bin,132,303,290.0,2,1150.0,,perfect,ripe,"(128, 83, 249)",1,0
+133,Avocado,front,day_m4_03,VIS,Avocado/VIS/day_m4_03/avocado_day_m4_03_06_front.hdr,Avocado/VIS/day_m4_03/avocado_day_m4_03_06_front.bin,133,303,290.0,2,1150.0,,perfect,ripe,"(440, 252, 224)",1,0
+134,Avocado,back,day_m4_03,VIS_COR,Avocado/VIS_COR/day_m4_03/avocado_day_m4_03_06_back.hdr,Avocado/VIS_COR/day_m4_03/avocado_day_m4_03_06_back.bin,134,303,290.0,2,1150.0,,perfect,ripe,"(128, 81, 249)",1,0
+135,Avocado,back,day_m4_03,VIS,Avocado/VIS/day_m4_03/avocado_day_m4_03_06_back.hdr,Avocado/VIS/day_m4_03/avocado_day_m4_03_06_back.bin,135,303,290.0,2,1150.0,,perfect,ripe,"(446, 249, 224)",1,0
+136,Avocado,front,day_m4_03,VIS_COR,Avocado/VIS_COR/day_m4_03/avocado_day_m4_03_08_front.hdr,Avocado/VIS_COR/day_m4_03/avocado_day_m4_03_08_front.bin,136,305,290.0,2,1150.0,,perfect,ripe,"(128, 84, 249)",1,0
+137,Avocado,front,day_m4_03,VIS,Avocado/VIS/day_m4_03/avocado_day_m4_03_08_front.hdr,Avocado/VIS/day_m4_03/avocado_day_m4_03_08_front.bin,137,305,290.0,2,1150.0,,perfect,ripe,"(433, 253, 224)",1,0
+138,Avocado,back,day_m4_03,VIS_COR,Avocado/VIS_COR/day_m4_03/avocado_day_m4_03_08_back.hdr,Avocado/VIS_COR/day_m4_03/avocado_day_m4_03_08_back.bin,138,305,290.0,2,1150.0,,perfect,ripe,"(128, 84, 249)",1,0
+139,Avocado,back,day_m4_03,VIS,Avocado/VIS/day_m4_03/avocado_day_m4_03_08_back.hdr,Avocado/VIS/day_m4_03/avocado_day_m4_03_08_back.bin,139,305,290.0,2,1150.0,,perfect,ripe,"(436, 253, 224)",1,0
+140,Avocado,front,day_m4_03,VIS_COR,Avocado/VIS_COR/day_m4_03/avocado_day_m4_03_28_front.hdr,Avocado/VIS_COR/day_m4_03/avocado_day_m4_03_28_front.bin,140,326,308.0,2,1100.0,,perfect,ripe,"(128, 79, 249)",1,0
+141,Avocado,front,day_m4_03,VIS,Avocado/VIS/day_m4_03/avocado_day_m4_03_28_front.hdr,Avocado/VIS/day_m4_03/avocado_day_m4_03_28_front.bin,141,326,308.0,2,1100.0,,perfect,ripe,"(462, 252, 224)",1,0
+142,Avocado,back,day_m4_03,VIS_COR,Avocado/VIS_COR/day_m4_03/avocado_day_m4_03_28_back.hdr,Avocado/VIS_COR/day_m4_03/avocado_day_m4_03_28_back.bin,142,326,308.0,2,1100.0,,perfect,ripe,"(128, 78, 249)",1,0
+143,Avocado,back,day_m4_03,VIS,Avocado/VIS/day_m4_03/avocado_day_m4_03_28_back.hdr,Avocado/VIS/day_m4_03/avocado_day_m4_03_28_back.bin,143,326,308.0,2,1100.0,,perfect,ripe,"(467, 251, 224)",1,0
+144,Papaya,back,day_m4_03,VIS,Papaya/VIS/day_m4_03/papaya_day_m4_03_05_back.hdr,Papaya/VIS/day_m4_03/papaya_day_m4_03_05_back.bin,144,259,246.0,2,1150.0,,perfect,ripe,"(411, 234, 224)",1,0
+145,Avocado,front,day_m4_04,VIS_COR,Avocado/VIS_COR/day_m4_04/avocado_day_m4_04_07_front.hdr,Avocado/VIS_COR/day_m4_04/avocado_day_m4_04_07_front.bin,145,301,283.0,3,900.0,,perfect,ripe,"(128, 84, 249)",1,0
+146,Avocado,front,day_m4_04,VIS,Avocado/VIS/day_m4_04/avocado_day_m4_04_07_front.hdr,Avocado/VIS/day_m4_04/avocado_day_m4_04_07_front.bin,146,301,283.0,3,900.0,,perfect,ripe,"(432, 253, 224)",1,0
+147,Avocado,back,day_m4_04,VIS_COR,Avocado/VIS_COR/day_m4_04/avocado_day_m4_04_07_back.hdr,Avocado/VIS_COR/day_m4_04/avocado_day_m4_04_07_back.bin,147,301,283.0,3,900.0,,perfect,ripe,"(128, 82, 249)",1,0
+148,Avocado,back,day_m4_04,VIS,Avocado/VIS/day_m4_04/avocado_day_m4_04_07_back.hdr,Avocado/VIS/day_m4_04/avocado_day_m4_04_07_back.bin,148,301,283.0,3,900.0,,perfect,ripe,"(441, 251, 224)",1,0
+149,Avocado,front,day_m4_04,VIS_COR,Avocado/VIS_COR/day_m4_04/avocado_day_m4_04_13_front.hdr,Avocado/VIS_COR/day_m4_04/avocado_day_m4_04_13_front.bin,149,306,285.0,3,700.0,,perfect,ripe,"(128, 85, 249)",1,0
+150,Avocado,front,day_m4_04,VIS,Avocado/VIS/day_m4_04/avocado_day_m4_04_13_front.hdr,Avocado/VIS/day_m4_04/avocado_day_m4_04_13_front.bin,150,306,285.0,3,700.0,,perfect,ripe,"(425, 250, 224)",1,0
+151,Avocado,back,day_m4_04,VIS_COR,Avocado/VIS_COR/day_m4_04/avocado_day_m4_04_13_back.hdr,Avocado/VIS_COR/day_m4_04/avocado_day_m4_04_13_back.bin,151,306,285.0,3,700.0,,perfect,ripe,"(128, 87, 249)",1,0
+152,Avocado,back,day_m4_04,VIS,Avocado/VIS/day_m4_04/avocado_day_m4_04_13_back.hdr,Avocado/VIS/day_m4_04/avocado_day_m4_04_13_back.bin,152,306,285.0,3,700.0,,perfect,ripe,"(415, 249, 224)",1,0
+153,Avocado,front,day_m4_04,VIS_COR,Avocado/VIS_COR/day_m4_04/avocado_day_m4_04_14_front.hdr,Avocado/VIS_COR/day_m4_04/avocado_day_m4_04_14_front.bin,153,301,283.0,3,500.0,,perfect,ripe,"(128, 80, 249)",1,0
+154,Avocado,front,day_m4_04,VIS,Avocado/VIS/day_m4_04/avocado_day_m4_04_14_front.hdr,Avocado/VIS/day_m4_04/avocado_day_m4_04_14_front.bin,154,301,283.0,3,500.0,,perfect,ripe,"(443, 244, 224)",1,0
+155,Avocado,back,day_m4_04,VIS_COR,Avocado/VIS_COR/day_m4_04/avocado_day_m4_04_14_back.hdr,Avocado/VIS_COR/day_m4_04/avocado_day_m4_04_14_back.bin,155,301,283.0,3,500.0,,perfect,ripe,"(128, 79, 249)",1,0
+156,Avocado,back,day_m4_04,VIS,Avocado/VIS/day_m4_04/avocado_day_m4_04_14_back.hdr,Avocado/VIS/day_m4_04/avocado_day_m4_04_14_back.bin,156,301,283.0,3,500.0,,perfect,ripe,"(448, 249, 224)",1,0
+157,Avocado,front,day_m4_04,VIS_COR,Avocado/VIS_COR/day_m4_04/avocado_day_m4_04_30_front.hdr,Avocado/VIS_COR/day_m4_04/avocado_day_m4_04_30_front.bin,157,296,282.0,3,650.0,,perfect,ripe,"(128, 63, 249)",1,0
+158,Avocado,front,day_m4_04,VIS,Avocado/VIS/day_m4_04/avocado_day_m4_04_30_front.hdr,Avocado/VIS/day_m4_04/avocado_day_m4_04_30_front.bin,158,296,282.0,3,650.0,,perfect,ripe,"(536, 229, 224)",1,0
+159,Avocado,back,day_m4_04,VIS_COR,Avocado/VIS_COR/day_m4_04/avocado_day_m4_04_30_back.hdr,Avocado/VIS_COR/day_m4_04/avocado_day_m4_04_30_back.bin,159,296,282.0,3,650.0,,perfect,ripe,"(128, 63, 249)",1,0
+160,Avocado,back,day_m4_04,VIS,Avocado/VIS/day_m4_04/avocado_day_m4_04_30_back.hdr,Avocado/VIS/day_m4_04/avocado_day_m4_04_30_back.bin,160,296,282.0,3,650.0,,perfect,ripe,"(521, 228, 224)",1,0
+161,Papaya,back,day_m4_04,VIS,Papaya/VIS/day_m4_04/papaya_day_m4_04_15_back.hdr,Papaya/VIS/day_m4_04/papaya_day_m4_04_15_back.bin,161,374,354.0,3,1650.0,,unripe,unripe,"(596, 223, 224)",0,0
+162,Papaya,front,day_m4_04,VIS,Papaya/VIS/day_m4_04/papaya_day_m4_04_23_front.hdr,Papaya/VIS/day_m4_04/papaya_day_m4_04_23_front.bin,162,443,416.0,3,1400.0,,unripe,unripe,"(550, 287, 224)",0,0
+163,Papaya,back,day_m4_04,VIS_COR,Papaya/VIS_COR/day_m4_04/papaya_day_m4_04_23_back.hdr,Papaya/VIS_COR/day_m4_04/papaya_day_m4_04_23_back.bin,163,443,416.0,3,1400.0,,unripe,unripe,"(128, 74, 249)",0,0
+164,Papaya,back,day_m4_04,VIS_COR,Papaya/VIS_COR/day_m4_04/papaya_day_m4_04_28_back.hdr,Papaya/VIS_COR/day_m4_04/papaya_day_m4_04_28_back.bin,164,315,296.0,3,1850.0,,perfect,ripe,"(128, 66, 249)",1,0
+165,Avocado,front,day_m4_05,VIS_COR,Avocado/VIS_COR/day_m4_05/avocado_day_m4_05_31_front.hdr,Avocado/VIS_COR/day_m4_05/avocado_day_m4_05_31_front.bin,165,158,158.0,0,20100.0,added + measured on day 5,unripe,unripe,"(128, 90, 249)",0,0
+166,Avocado,front,day_m4_05,VIS,Avocado/VIS/day_m4_05/avocado_day_m4_05_31_front.hdr,Avocado/VIS/day_m4_05/avocado_day_m4_05_31_front.bin,166,158,158.0,0,20100.0,added + measured on day 5,unripe,unripe,"(323, 201, 224)",0,0
+167,Avocado,back,day_m4_05,VIS_COR,Avocado/VIS_COR/day_m4_05/avocado_day_m4_05_31_back.hdr,Avocado/VIS_COR/day_m4_05/avocado_day_m4_05_31_back.bin,167,158,158.0,0,20100.0,added + measured on day 5,unripe,unripe,"(128, 87, 249)",0,0
+168,Avocado,back,day_m4_05,VIS,Avocado/VIS/day_m4_05/avocado_day_m4_05_31_back.hdr,Avocado/VIS/day_m4_05/avocado_day_m4_05_31_back.bin,168,158,158.0,0,20100.0,added + measured on day 5,unripe,unripe,"(333, 202, 224)",0,0
+169,Avocado,front,day_m4_05,VIS_COR,Avocado/VIS_COR/day_m4_05/avocado_day_m4_05_32_front.hdr,Avocado/VIS_COR/day_m4_05/avocado_day_m4_05_32_front.bin,169,177,177.0,0,20500.0,added + measured on day 5,unripe,unripe,"(128, 91, 249)",0,0
+170,Avocado,front,day_m4_05,VIS,Avocado/VIS/day_m4_05/avocado_day_m4_05_32_front.hdr,Avocado/VIS/day_m4_05/avocado_day_m4_05_32_front.bin,170,177,177.0,0,20500.0,added + measured on day 5,unripe,unripe,"(339, 214, 224)",0,0
+171,Avocado,back,day_m4_05,VIS_COR,Avocado/VIS_COR/day_m4_05/avocado_day_m4_05_32_back.hdr,Avocado/VIS_COR/day_m4_05/avocado_day_m4_05_32_back.bin,171,177,177.0,0,20500.0,added + measured on day 5,unripe,unripe,"(128, 92, 249)",0,0
+172,Avocado,back,day_m4_05,VIS,Avocado/VIS/day_m4_05/avocado_day_m4_05_32_back.hdr,Avocado/VIS/day_m4_05/avocado_day_m4_05_32_back.bin,172,177,177.0,0,20500.0,added + measured on day 5,unripe,unripe,"(336, 216, 224)",0,0
+173,Avocado,front,day_m4_05,VIS_COR,Avocado/VIS_COR/day_m4_05/avocado_day_m4_05_33_front.hdr,Avocado/VIS_COR/day_m4_05/avocado_day_m4_05_33_front.bin,173,172,172.0,0,20000.0,added + measured on day 5,unripe,unripe,"(128, 75, 249)",0,0
+174,Avocado,front,day_m4_05,VIS,Avocado/VIS/day_m4_05/avocado_day_m4_05_33_front.hdr,Avocado/VIS/day_m4_05/avocado_day_m4_05_33_front.bin,174,172,172.0,0,20000.0,added + measured on day 5,unripe,unripe,"(375, 197, 224)",0,0
+175,Avocado,back,day_m4_05,VIS_COR,Avocado/VIS_COR/day_m4_05/avocado_day_m4_05_33_back.hdr,Avocado/VIS_COR/day_m4_05/avocado_day_m4_05_33_back.bin,175,172,172.0,0,20000.0,added + measured on day 5,unripe,unripe,"(128, 74, 249)",0,0
+176,Avocado,back,day_m4_05,VIS,Avocado/VIS/day_m4_05/avocado_day_m4_05_33_back.hdr,Avocado/VIS/day_m4_05/avocado_day_m4_05_33_back.bin,176,172,172.0,0,20000.0,added + measured on day 5,unripe,unripe,"(386, 198, 224)",0,0
+177,Avocado,front,day_m4_05,VIS_COR,Avocado/VIS_COR/day_m4_05/avocado_day_m4_05_34_front.hdr,Avocado/VIS_COR/day_m4_05/avocado_day_m4_05_34_front.bin,177,161,161.0,0,20500.0,added + measured on day 5,unripe,unripe,"(128, 81, 249)",0,0
+178,Avocado,front,day_m4_05,VIS,Avocado/VIS/day_m4_05/avocado_day_m4_05_34_front.hdr,Avocado/VIS/day_m4_05/avocado_day_m4_05_34_front.bin,178,161,161.0,0,20500.0,added + measured on day 5,unripe,unripe,"(352, 200, 224)",0,0
+179,Avocado,back,day_m4_05,VIS_COR,Avocado/VIS_COR/day_m4_05/avocado_day_m4_05_34_back.hdr,Avocado/VIS_COR/day_m4_05/avocado_day_m4_05_34_back.bin,179,161,161.0,0,20500.0,added + measured on day 5,unripe,unripe,"(128, 79, 249)",0,0
+180,Avocado,back,day_m4_05,VIS,Avocado/VIS/day_m4_05/avocado_day_m4_05_34_back.hdr,Avocado/VIS/day_m4_05/avocado_day_m4_05_34_back.bin,180,161,161.0,0,20500.0,added + measured on day 5,unripe,unripe,"(364, 199, 224)",0,0
+181,Papaya,front,day_m4_05,VIS,Papaya/VIS/day_m4_05/papaya_day_m4_05_11_front.hdr,Papaya/VIS/day_m4_05/papaya_day_m4_05_11_front.bin,181,261,240.0,5,1200.0,,perfect,ripe,"(431, 231, 224)",1,0
+182,Avocado,front,day_m4_06,VIS_COR,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_03_front.hdr,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_03_front.bin,182,289,254.0,6,950.0,,perfect,ripe,"(128, 81, 249)",1,0
+183,Avocado,front,day_m4_06,VIS,Avocado/VIS/day_m4_06/avocado_day_m4_06_03_front.hdr,Avocado/VIS/day_m4_06/avocado_day_m4_06_03_front.bin,183,289,254.0,6,950.0,,perfect,ripe,"(428, 240, 224)",1,0
+184,Avocado,back,day_m4_06,VIS_COR,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_03_back.hdr,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_03_back.bin,184,289,254.0,6,950.0,,perfect,ripe,"(128, 80, 249)",1,0
+185,Avocado,back,day_m4_06,VIS,Avocado/VIS/day_m4_06/avocado_day_m4_06_03_back.hdr,Avocado/VIS/day_m4_06/avocado_day_m4_06_03_back.bin,185,289,254.0,6,950.0,,perfect,ripe,"(428, 237, 224)",1,0
+186,Avocado,front,day_m4_06,VIS_COR,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_05_front.hdr,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_05_front.bin,186,292,247.0,6,500.0,,overripe,overripe,"(128, 71, 249)",2,0
+187,Avocado,front,day_m4_06,VIS,Avocado/VIS/day_m4_06/avocado_day_m4_06_05_front.hdr,Avocado/VIS/day_m4_06/avocado_day_m4_06_05_front.bin,187,292,247.0,6,500.0,,overripe,overripe,"(472, 232, 224)",2,0
+188,Avocado,back,day_m4_06,VIS_COR,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_05_back.hdr,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_05_back.bin,188,292,247.0,6,500.0,,overripe,overripe,"(128, 71, 249)",2,0
+189,Avocado,back,day_m4_06,VIS,Avocado/VIS/day_m4_06/avocado_day_m4_06_05_back.hdr,Avocado/VIS/day_m4_06/avocado_day_m4_06_05_back.bin,189,292,247.0,6,500.0,,overripe,overripe,"(472, 234, 224)",2,0
+190,Avocado,front,day_m4_06,VIS_COR,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_09_front.hdr,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_09_front.bin,190,291,253.0,6,700.0,,perfect,ripe,"(128, 73, 249)",1,0
+191,Avocado,front,day_m4_06,VIS,Avocado/VIS/day_m4_06/avocado_day_m4_06_09_front.hdr,Avocado/VIS/day_m4_06/avocado_day_m4_06_09_front.bin,191,291,253.0,6,700.0,,perfect,ripe,"(462, 234, 224)",1,0
+192,Avocado,back,day_m4_06,VIS_COR,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_09_back.hdr,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_09_back.bin,192,291,253.0,6,700.0,,perfect,ripe,"(128, 73, 249)",1,0
+193,Avocado,back,day_m4_06,VIS,Avocado/VIS/day_m4_06/avocado_day_m4_06_09_back.hdr,Avocado/VIS/day_m4_06/avocado_day_m4_06_09_back.bin,193,291,253.0,6,700.0,,perfect,ripe,"(463, 233, 224)",1,0
+194,Avocado,front,day_m4_06,VIS_COR,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_25_front.hdr,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_25_front.bin,194,316,286.0,6,500.0,,overripe,overripe,"(128, 77, 249)",2,0
+195,Avocado,front,day_m4_06,VIS,Avocado/VIS/day_m4_06/avocado_day_m4_06_25_front.hdr,Avocado/VIS/day_m4_06/avocado_day_m4_06_25_front.bin,195,316,286.0,6,500.0,,overripe,overripe,"(466, 249, 224)",2,0
+196,Avocado,back,day_m4_06,VIS_COR,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_25_back.hdr,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_25_back.bin,196,316,286.0,6,500.0,,overripe,overripe,"(128, 77, 249)",2,0
+197,Avocado,back,day_m4_06,VIS,Avocado/VIS/day_m4_06/avocado_day_m4_06_25_back.hdr,Avocado/VIS/day_m4_06/avocado_day_m4_06_25_back.bin,197,316,286.0,6,500.0,,overripe,overripe,"(472, 250, 224)",2,0
+198,Avocado,front,day_m4_06,VIS_COR,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_27_front.hdr,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_27_front.bin,198,307,272.0,6,600.0,,perfect,ripe,"(128, 84, 249)",1,0
+199,Avocado,front,day_m4_06,VIS,Avocado/VIS/day_m4_06/avocado_day_m4_06_27_front.hdr,Avocado/VIS/day_m4_06/avocado_day_m4_06_27_front.bin,199,307,272.0,6,600.0,,perfect,ripe,"(438, 255, 224)",1,0
+200,Avocado,back,day_m4_06,VIS_COR,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_27_back.hdr,Avocado/VIS_COR/day_m4_06/avocado_day_m4_06_27_back.bin,200,307,272.0,6,600.0,,perfect,ripe,"(128, 84, 249)",1,0
+201,Avocado,back,day_m4_06,VIS,Avocado/VIS/day_m4_06/avocado_day_m4_06_27_back.hdr,Avocado/VIS/day_m4_06/avocado_day_m4_06_27_back.bin,201,307,272.0,6,600.0,,perfect,ripe,"(442, 256, 224)",1,0
+202,Papaya,back,day_m4_06,VIS_COR,Papaya/VIS_COR/day_m4_06/papaya_day_m4_06_06_back.hdr,Papaya/VIS_COR/day_m4_06/papaya_day_m4_06_06_back.bin,202,299,259.0,6,1350.0,,perfect,ripe,"(128, 68, 249)",1,0
+203,Papaya,back,day_m4_06,VIS_COR,Papaya/VIS_COR/day_m4_06/papaya_day_m4_06_14_back.hdr,Papaya/VIS_COR/day_m4_06/papaya_day_m4_06_14_back.bin,203,261,236.0,6,1200.0,,perfect,ripe,"(128, 73, 249)",1,0
+204,Papaya,back,day_m4_06,VIS_COR,Papaya/VIS_COR/day_m4_06/papaya_day_m4_06_24_back.hdr,Papaya/VIS_COR/day_m4_06/papaya_day_m4_06_24_back.bin,204,415,355.0,6,1000.0,,overripe,overripe,"(128, 72, 249)",2,0
+205,Avocado,front,day_m4_07,VIS_COR,Avocado/VIS_COR/day_m4_07/avocado_day_m4_07_01_front.hdr,Avocado/VIS_COR/day_m4_07/avocado_day_m4_07_01_front.bin,205,320,285.0,7,550.0,,overripe,overripe,"(128, 80, 249)",2,0
+206,Avocado,front,day_m4_07,VIS,Avocado/VIS/day_m4_07/avocado_day_m4_07_01_front.hdr,Avocado/VIS/day_m4_07/avocado_day_m4_07_01_front.bin,206,320,285.0,7,550.0,,overripe,overripe,"(461, 253, 224)",2,0
+207,Avocado,back,day_m4_07,VIS_COR,Avocado/VIS_COR/day_m4_07/avocado_day_m4_07_01_back.hdr,Avocado/VIS_COR/day_m4_07/avocado_day_m4_07_01_back.bin,207,320,285.0,7,550.0,,overripe,overripe,"(128, 78, 249)",2,0
+208,Avocado,back,day_m4_07,VIS,Avocado/VIS/day_m4_07/avocado_day_m4_07_01_back.hdr,Avocado/VIS/day_m4_07/avocado_day_m4_07_01_back.bin,208,320,285.0,7,550.0,,overripe,overripe,"(460, 247, 224)",2,0
+209,Avocado,front,day_m4_07,VIS_COR,Avocado/VIS_COR/day_m4_07/avocado_day_m4_07_12_front.hdr,Avocado/VIS_COR/day_m4_07/avocado_day_m4_07_12_front.bin,209,320,278.0,7,500.0,,overripe,overripe,"(128, 76, 249)",2,0
+210,Avocado,front,day_m4_07,VIS,Avocado/VIS/day_m4_07/avocado_day_m4_07_12_front.hdr,Avocado/VIS/day_m4_07/avocado_day_m4_07_12_front.bin,210,320,278.0,7,500.0,,overripe,overripe,"(478, 252, 224)",2,0
+211,Avocado,back,day_m4_07,VIS_COR,Avocado/VIS_COR/day_m4_07/avocado_day_m4_07_12_back.hdr,Avocado/VIS_COR/day_m4_07/avocado_day_m4_07_12_back.bin,211,320,278.0,7,500.0,,overripe,overripe,"(128, 74, 249)",2,0
+212,Avocado,back,day_m4_07,VIS,Avocado/VIS/day_m4_07/avocado_day_m4_07_12_back.hdr,Avocado/VIS/day_m4_07/avocado_day_m4_07_12_back.bin,212,320,278.0,7,500.0,,overripe,overripe,"(478, 244, 224)",2,0
+213,Avocado,front,day_m4_07,VIS_COR,Avocado/VIS_COR/day_m4_07/avocado_day_m4_07_19_front.hdr,Avocado/VIS_COR/day_m4_07/avocado_day_m4_07_19_front.bin,213,297,253.0,7,550.0,,overripe,overripe,"(128, 74, 249)",2,0
+214,Avocado,front,day_m4_07,VIS,Avocado/VIS/day_m4_07/avocado_day_m4_07_19_front.hdr,Avocado/VIS/day_m4_07/avocado_day_m4_07_19_front.bin,214,297,253.0,7,550.0,,overripe,overripe,"(441, 231, 224)",2,0
+215,Avocado,back,day_m4_07,VIS_COR,Avocado/VIS_COR/day_m4_07/avocado_day_m4_07_19_back.hdr,Avocado/VIS_COR/day_m4_07/avocado_day_m4_07_19_back.bin,215,297,253.0,7,550.0,,overripe,overripe,"(128, 76, 249)",2,0
+216,Avocado,back,day_m4_07,VIS,Avocado/VIS/day_m4_07/avocado_day_m4_07_19_back.hdr,Avocado/VIS/day_m4_07/avocado_day_m4_07_19_back.bin,216,297,253.0,7,550.0,,overripe,overripe,"(441, 232, 224)",2,0
+217,Avocado,front,day_m4_07,VIS_COR,Avocado/VIS_COR/day_m4_07/avocado_day_m4_07_24_front.hdr,Avocado/VIS_COR/day_m4_07/avocado_day_m4_07_24_front.bin,217,304,270.0,7,500.0,,overripe,overripe,"(128, 72, 249)",2,0
+218,Avocado,front,day_m4_07,VIS,Avocado/VIS/day_m4_07/avocado_day_m4_07_24_front.hdr,Avocado/VIS/day_m4_07/avocado_day_m4_07_24_front.bin,218,304,270.0,7,500.0,,overripe,overripe,"(482, 242, 224)",2,0
+219,Avocado,back,day_m4_07,VIS_COR,Avocado/VIS_COR/day_m4_07/avocado_day_m4_07_24_back.hdr,Avocado/VIS_COR/day_m4_07/avocado_day_m4_07_24_back.bin,219,304,270.0,7,500.0,,overripe,overripe,"(128, 73, 249)",2,0
+220,Avocado,back,day_m4_07,VIS,Avocado/VIS/day_m4_07/avocado_day_m4_07_24_back.hdr,Avocado/VIS/day_m4_07/avocado_day_m4_07_24_back.bin,220,304,270.0,7,500.0,,overripe,overripe,"(483, 241, 224)",2,0
+221,Papaya,back,day_m4_07,VIS,Papaya/VIS/day_m4_07/papaya_day_m4_07_01_back.hdr,Papaya/VIS/day_m4_07/papaya_day_m4_07_01_back.bin,221,327,273.0,7,500.0,,perfect,ripe,"(425, 241, 224)",1,0
+222,Papaya,front,day_m4_07,VIS_COR,Papaya/VIS_COR/day_m4_07/papaya_day_m4_07_22_front.hdr,Papaya/VIS_COR/day_m4_07/papaya_day_m4_07_22_front.bin,222,496,413.0,7,600.0,,overripe,overripe,"(128, 70, 249)",2,0
+223,Papaya,back,day_m4_07,VIS_COR,Papaya/VIS_COR/day_m4_07/papaya_day_m4_07_22_back.hdr,Papaya/VIS_COR/day_m4_07/papaya_day_m4_07_22_back.bin,223,496,413.0,7,600.0,,overripe,overripe,"(128, 71, 249)",2,0
+224,Papaya,back,day_m4_07,VIS,Papaya/VIS/day_m4_07/papaya_day_m4_07_22_back.hdr,Papaya/VIS/day_m4_07/papaya_day_m4_07_22_back.bin,224,496,413.0,7,600.0,,overripe,overripe,"(563, 270, 224)",2,0
+225,Papaya,front,day_m4_07,VIS,Papaya/VIS/day_m4_07/papaya_day_m4_07_25_front.hdr,Papaya/VIS/day_m4_07/papaya_day_m4_07_25_front.bin,225,444,359.0,7,850.0,,overripe,overripe,"(451, 298, 224)",2,0
+226,Papaya,back,day_m4_07,VIS,Papaya/VIS/day_m4_07/papaya_day_m4_07_25_back.hdr,Papaya/VIS/day_m4_07/papaya_day_m4_07_25_back.bin,226,444,359.0,7,850.0,,overripe,overripe,"(436, 303, 224)",2,0
+227,Avocado,front,day_m4_08,VIS_COR,Avocado/VIS_COR/day_m4_08/avocado_day_m4_08_10_front.hdr,Avocado/VIS_COR/day_m4_08/avocado_day_m4_08_10_front.bin,227,294,247.0,8,550.0,,overripe,overripe,"(128, 84, 249)",2,0
+228,Avocado,front,day_m4_08,VIS,Avocado/VIS/day_m4_08/avocado_day_m4_08_10_front.hdr,Avocado/VIS/day_m4_08/avocado_day_m4_08_10_front.bin,228,294,247.0,8,550.0,,overripe,overripe,"(419, 243, 224)",2,0
+229,Avocado,back,day_m4_08,VIS_COR,Avocado/VIS_COR/day_m4_08/avocado_day_m4_08_10_back.hdr,Avocado/VIS_COR/day_m4_08/avocado_day_m4_08_10_back.bin,229,294,247.0,8,550.0,,overripe,overripe,"(128, 86, 249)",2,0
+230,Avocado,back,day_m4_08,VIS,Avocado/VIS/day_m4_08/avocado_day_m4_08_10_back.hdr,Avocado/VIS/day_m4_08/avocado_day_m4_08_10_back.bin,230,294,247.0,8,550.0,,overripe,overripe,"(410, 243, 224)",2,0
+231,Avocado,front,day_m4_08,VIS_COR,Avocado/VIS_COR/day_m4_08/avocado_day_m4_08_11_front.hdr,Avocado/VIS_COR/day_m4_08/avocado_day_m4_08_11_front.bin,231,350,297.0,8,700.0,,perfect,ripe,"(128, 83, 249)",1,0
+232,Avocado,front,day_m4_08,VIS,Avocado/VIS/day_m4_08/avocado_day_m4_08_11_front.hdr,Avocado/VIS/day_m4_08/avocado_day_m4_08_11_front.bin,232,350,297.0,8,700.0,,perfect,ripe,"(441, 252, 224)",1,0
+233,Avocado,back,day_m4_08,VIS_COR,Avocado/VIS_COR/day_m4_08/avocado_day_m4_08_11_back.hdr,Avocado/VIS_COR/day_m4_08/avocado_day_m4_08_11_back.bin,233,350,297.0,8,700.0,,perfect,ripe,"(128, 82, 249)",1,0
+234,Avocado,back,day_m4_08,VIS,Avocado/VIS/day_m4_08/avocado_day_m4_08_11_back.hdr,Avocado/VIS/day_m4_08/avocado_day_m4_08_11_back.bin,234,350,297.0,8,700.0,,perfect,ripe,"(445, 254, 224)",1,0
+235,Avocado,front,day_m4_08,VIS_COR,Avocado/VIS_COR/day_m4_08/avocado_day_m4_08_16_front.hdr,Avocado/VIS_COR/day_m4_08/avocado_day_m4_08_16_front.bin,235,300,260.0,8,500.0,,overripe,overripe,"(128, 70, 249)",2,0
+236,Avocado,front,day_m4_08,VIS,Avocado/VIS/day_m4_08/avocado_day_m4_08_16_front.hdr,Avocado/VIS/day_m4_08/avocado_day_m4_08_16_front.bin,236,300,260.0,8,500.0,,overripe,overripe,"(482, 236, 224)",2,0
+237,Avocado,back,day_m4_08,VIS_COR,Avocado/VIS_COR/day_m4_08/avocado_day_m4_08_16_back.hdr,Avocado/VIS_COR/day_m4_08/avocado_day_m4_08_16_back.bin,237,300,260.0,8,500.0,,overripe,overripe,"(128, 70, 249)",2,0
+238,Avocado,back,day_m4_08,VIS,Avocado/VIS/day_m4_08/avocado_day_m4_08_16_back.hdr,Avocado/VIS/day_m4_08/avocado_day_m4_08_16_back.bin,238,300,260.0,8,500.0,,overripe,overripe,"(483, 238, 224)",2,0
+239,Avocado,front,day_m4_08,VIS_COR,Avocado/VIS_COR/day_m4_08/avocado_day_m4_08_26_front.hdr,Avocado/VIS_COR/day_m4_08/avocado_day_m4_08_26_front.bin,239,302,243.0,8,500.0,,overripe,overripe,"(128, 77, 249)",2,0
+240,Avocado,front,day_m4_08,VIS,Avocado/VIS/day_m4_08/avocado_day_m4_08_26_front.hdr,Avocado/VIS/day_m4_08/avocado_day_m4_08_26_front.bin,240,302,243.0,8,500.0,,overripe,overripe,"(455, 241, 224)",2,0
+241,Avocado,back,day_m4_08,VIS_COR,Avocado/VIS_COR/day_m4_08/avocado_day_m4_08_26_back.hdr,Avocado/VIS_COR/day_m4_08/avocado_day_m4_08_26_back.bin,241,302,243.0,8,500.0,,overripe,overripe,"(128, 77, 249)",2,0
+242,Avocado,back,day_m4_08,VIS,Avocado/VIS/day_m4_08/avocado_day_m4_08_26_back.hdr,Avocado/VIS/day_m4_08/avocado_day_m4_08_26_back.bin,242,302,243.0,8,500.0,,overripe,overripe,"(454, 243, 224)",2,0
+243,Avocado,front,day_m4_09,VIS_COR,Avocado/VIS_COR/day_m4_09/avocado_day_m4_09_04_front.hdr,Avocado/VIS_COR/day_m4_09/avocado_day_m4_09_04_front.bin,243,296,239.0,9,600.0,,perfect,ripe,"(128, 72, 249)",1,0
+244,Avocado,front,day_m4_09,VIS,Avocado/VIS/day_m4_09/avocado_day_m4_09_04_front.hdr,Avocado/VIS/day_m4_09/avocado_day_m4_09_04_front.bin,244,296,239.0,9,600.0,,perfect,ripe,"(452, 229, 224)",1,0
+245,Avocado,back,day_m4_09,VIS_COR,Avocado/VIS_COR/day_m4_09/avocado_day_m4_09_04_back.hdr,Avocado/VIS_COR/day_m4_09/avocado_day_m4_09_04_back.bin,245,296,239.0,9,600.0,,perfect,ripe,"(128, 71, 249)",1,0
+246,Avocado,back,day_m4_09,VIS,Avocado/VIS/day_m4_09/avocado_day_m4_09_04_back.hdr,Avocado/VIS/day_m4_09/avocado_day_m4_09_04_back.bin,246,296,239.0,9,600.0,,perfect,ripe,"(453, 225, 224)",1,0
+247,Avocado,front,day_m4_09,VIS_COR,Avocado/VIS_COR/day_m4_09/avocado_day_m4_09_15_front.hdr,Avocado/VIS_COR/day_m4_09/avocado_day_m4_09_15_front.bin,247,292,243.0,9,550.0,,perfect,ripe,"(128, 84, 249)",1,0
+248,Avocado,front,day_m4_09,VIS,Avocado/VIS/day_m4_09/avocado_day_m4_09_15_front.hdr,Avocado/VIS/day_m4_09/avocado_day_m4_09_15_front.bin,248,292,243.0,9,550.0,,perfect,ripe,"(414, 242, 224)",1,0
+249,Avocado,back,day_m4_09,VIS_COR,Avocado/VIS_COR/day_m4_09/avocado_day_m4_09_15_back.hdr,Avocado/VIS_COR/day_m4_09/avocado_day_m4_09_15_back.bin,249,292,243.0,9,550.0,,perfect,ripe,"(128, 82, 249)",1,0
+250,Avocado,back,day_m4_09,VIS,Avocado/VIS/day_m4_09/avocado_day_m4_09_15_back.hdr,Avocado/VIS/day_m4_09/avocado_day_m4_09_15_back.bin,250,292,243.0,9,550.0,,perfect,ripe,"(424, 241, 224)",1,0
+251,Avocado,front,day_m4_09,VIS_COR,Avocado/VIS_COR/day_m4_09/avocado_day_m4_09_20_front.hdr,Avocado/VIS_COR/day_m4_09/avocado_day_m4_09_20_front.bin,251,295,241.0,9,500.0,,overripe,overripe,"(128, 68, 249)",2,0
+252,Avocado,front,day_m4_09,VIS,Avocado/VIS/day_m4_09/avocado_day_m4_09_20_front.hdr,Avocado/VIS/day_m4_09/avocado_day_m4_09_20_front.bin,252,295,241.0,9,500.0,,overripe,overripe,"(491, 245, 224)",2,0
+253,Avocado,back,day_m4_09,VIS_COR,Avocado/VIS_COR/day_m4_09/avocado_day_m4_09_20_back.hdr,Avocado/VIS_COR/day_m4_09/avocado_day_m4_09_20_back.bin,253,295,241.0,9,500.0,,overripe,overripe,"(128, 67, 249)",2,0
+254,Avocado,back,day_m4_09,VIS,Avocado/VIS/day_m4_09/avocado_day_m4_09_20_back.hdr,Avocado/VIS/day_m4_09/avocado_day_m4_09_20_back.bin,254,295,241.0,9,500.0,,overripe,overripe,"(499, 240, 224)",2,0
+255,Avocado,front,day_m4_09,VIS_COR,Avocado/VIS_COR/day_m4_09/avocado_day_m4_09_21_front.hdr,Avocado/VIS_COR/day_m4_09/avocado_day_m4_09_21_front.bin,255,305,263.0,9,550.0,,overripe,overripe,"(128, 81, 249)",2,0
+256,Avocado,front,day_m4_09,VIS,Avocado/VIS/day_m4_09/avocado_day_m4_09_21_front.hdr,Avocado/VIS/day_m4_09/avocado_day_m4_09_21_front.bin,256,305,263.0,9,550.0,,overripe,overripe,"(435, 245, 224)",2,0
+257,Avocado,back,day_m4_09,VIS_COR,Avocado/VIS_COR/day_m4_09/avocado_day_m4_09_21_back.hdr,Avocado/VIS_COR/day_m4_09/avocado_day_m4_09_21_back.bin,257,305,263.0,9,550.0,,overripe,overripe,"(128, 82, 249)",2,0
+258,Avocado,back,day_m4_09,VIS,Avocado/VIS/day_m4_09/avocado_day_m4_09_21_back.hdr,Avocado/VIS/day_m4_09/avocado_day_m4_09_21_back.bin,258,305,263.0,9,550.0,,overripe,overripe,"(426, 242, 224)",2,0

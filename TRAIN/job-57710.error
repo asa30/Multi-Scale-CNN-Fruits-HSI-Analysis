@@ -1,0 +1,11 @@
+[38;5;127mmpi[0m/[38;5;172mopenmpi[0m/[38;5;67m4.1.5[0m/[38;5;68mgcc-4.8.5[0m
+ | -- [38;5;127mlibs[0m/[38;5;172mgcc[0m/[38;5;67msystem[0m
+ |    * --> [0;32mOK[0m
+ |
+ [0;32mOK[0m
+2024-04-11 08:17:09.005838: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-04-11 08:17:13.707895: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-04-11 08:17:14.043512: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1613] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 43487 MB memory:  -> device: 0, name: NVIDIA A40, pci bus id: 0000:21:00.0, compute capability: 8.6
+slurmstepd: error: *** JOB 57710 ON gpu05 CANCELLED AT 2024-04-11T08:17:15 ***

@@ -1,0 +1,574 @@
+Your results will be stored in: /users/asa30/4thYearImplementation/SVM/kiwi-vis-svm-loocv-outputs/57685
+Executing job commands, current working directory is /users/asa30/4thYearImplementation/SVM
+no change     /users/asa30/.local/share/flight/env/conda+asa30c/condabin/conda
+no change     /users/asa30/.local/share/flight/env/conda+asa30c/bin/conda
+no change     /users/asa30/.local/share/flight/env/conda+asa30c/bin/conda-env
+no change     /users/asa30/.local/share/flight/env/conda+asa30c/bin/activate
+no change     /users/asa30/.local/share/flight/env/conda+asa30c/bin/deactivate
+no change     /users/asa30/.local/share/flight/env/conda+asa30c/etc/profile.d/conda.sh
+no change     /users/asa30/.local/share/flight/env/conda+asa30c/etc/fish/conf.d/conda.fish
+no change     /users/asa30/.local/share/flight/env/conda+asa30c/shell/condabin/Conda.psm1
+no change     /users/asa30/.local/share/flight/env/conda+asa30c/shell/condabin/conda-hook.ps1
+no change     /users/asa30/.local/share/flight/env/conda+asa30c/lib/python3.11/site-packages/xontrib/conda.xsh
+no change     /users/asa30/.local/share/flight/env/conda+asa30c/etc/profile.d/conda.csh
+no change     /users/asa30/.bashrc
+No action taken.
+Training model for iteration 0
+done training
+Correct prediction for iteration 0
+Training model for iteration 1
+done training
+Correct prediction for iteration 1
+Training model for iteration 2
+done training
+Correct prediction for iteration 2
+Training model for iteration 3
+done training
+Correct prediction for iteration 3
+Training model for iteration 4
+done training
+Correct prediction for iteration 4
+Training model for iteration 5
+done training
+Correct prediction for iteration 5
+Training model for iteration 6
+done training
+Correct prediction for iteration 6
+Training model for iteration 7
+done training
+Correct prediction for iteration 7
+Training model for iteration 8
+done training
+Incorrect prediction for iteration 8
+Training model for iteration 9
+done training
+Incorrect prediction for iteration 9
+Training model for iteration 10
+done training
+Incorrect prediction for iteration 10
+Training model for iteration 11
+done training
+Incorrect prediction for iteration 11
+Training model for iteration 12
+done training
+Incorrect prediction for iteration 12
+Training model for iteration 13
+done training
+Incorrect prediction for iteration 13
+Training model for iteration 14
+done training
+Incorrect prediction for iteration 14
+Training model for iteration 15
+done training
+Incorrect prediction for iteration 15
+Training model for iteration 16
+done training
+Correct prediction for iteration 16
+Training model for iteration 17
+done training
+Incorrect prediction for iteration 17
+Training model for iteration 18
+done training
+Correct prediction for iteration 18
+Training model for iteration 19
+done training
+Incorrect prediction for iteration 19
+Training model for iteration 20
+done training
+Correct prediction for iteration 20
+Training model for iteration 21
+done training
+Incorrect prediction for iteration 21
+Training model for iteration 22
+done training
+Correct prediction for iteration 22
+Training model for iteration 23
+done training
+Correct prediction for iteration 23
+Training model for iteration 24
+done training
+Incorrect prediction for iteration 24
+Training model for iteration 25
+done training
+Correct prediction for iteration 25
+Training model for iteration 26
+done training
+Correct prediction for iteration 26
+Training model for iteration 27
+done training
+Correct prediction for iteration 27
+Training model for iteration 28
+done training
+Correct prediction for iteration 28
+Training model for iteration 29
+done training
+Correct prediction for iteration 29
+Training model for iteration 30
+done training
+Correct prediction for iteration 30
+Training model for iteration 31
+done training
+Incorrect prediction for iteration 31
+Training model for iteration 32
+done training
+Incorrect prediction for iteration 32
+Training model for iteration 33
+done training
+Incorrect prediction for iteration 33
+Training model for iteration 34
+done training
+Correct prediction for iteration 34
+Training model for iteration 35
+done training
+Correct prediction for iteration 35
+Training model for iteration 36
+done training
+Correct prediction for iteration 36
+Training model for iteration 37
+done training
+Incorrect prediction for iteration 37
+Training model for iteration 38
+done training
+Correct prediction for iteration 38
+Training model for iteration 39
+done training
+Correct prediction for iteration 39
+Training model for iteration 40
+done training
+Correct prediction for iteration 40
+Training model for iteration 41
+done training
+Correct prediction for iteration 41
+Training model for iteration 42
+done training
+Correct prediction for iteration 42
+Training model for iteration 43
+done training
+Correct prediction for iteration 43
+Training model for iteration 44
+done training
+Incorrect prediction for iteration 44
+Training model for iteration 45
+done training
+Incorrect prediction for iteration 45
+Training model for iteration 46
+done training
+Incorrect prediction for iteration 46
+Training model for iteration 47
+done training
+Incorrect prediction for iteration 47
+Training model for iteration 48
+done training
+Incorrect prediction for iteration 48
+Training model for iteration 49
+done training
+Incorrect prediction for iteration 49
+Training model for iteration 50
+done training
+Incorrect prediction for iteration 50
+Training model for iteration 51
+done training
+Incorrect prediction for iteration 51
+Training model for iteration 52
+done training
+Correct prediction for iteration 52
+Training model for iteration 53
+done training
+Correct prediction for iteration 53
+Training model for iteration 54
+done training
+Incorrect prediction for iteration 54
+Training model for iteration 55
+done training
+Incorrect prediction for iteration 55
+Training model for iteration 56
+done training
+Incorrect prediction for iteration 56
+Training model for iteration 57
+done training
+Incorrect prediction for iteration 57
+Training model for iteration 58
+done training
+Incorrect prediction for iteration 58
+Training model for iteration 59
+done training
+Correct prediction for iteration 59
+Training model for iteration 60
+done training
+Correct prediction for iteration 60
+Training model for iteration 61
+done training
+Incorrect prediction for iteration 61
+Training model for iteration 62
+done training
+Incorrect prediction for iteration 62
+Training model for iteration 63
+done training
+Incorrect prediction for iteration 63
+Training model for iteration 64
+done training
+Incorrect prediction for iteration 64
+Training model for iteration 65
+done training
+Correct prediction for iteration 65
+Training model for iteration 66
+done training
+Correct prediction for iteration 66
+Training model for iteration 67
+done training
+Correct prediction for iteration 67
+Training model for iteration 68
+done training
+Incorrect prediction for iteration 68
+Training model for iteration 69
+done training
+Incorrect prediction for iteration 69
+Training model for iteration 70
+done training
+Incorrect prediction for iteration 70
+Training model for iteration 71
+done training
+Incorrect prediction for iteration 71
+Training model for iteration 72
+done training
+Correct prediction for iteration 72
+Training model for iteration 73
+done training
+Correct prediction for iteration 73
+Training model for iteration 74
+done training
+Incorrect prediction for iteration 74
+Training model for iteration 75
+done training
+Incorrect prediction for iteration 75
+Training model for iteration 76
+done training
+Incorrect prediction for iteration 76
+Training model for iteration 77
+done training
+Incorrect prediction for iteration 77
+Training model for iteration 78
+done training
+Incorrect prediction for iteration 78
+Training model for iteration 79
+done training
+Incorrect prediction for iteration 79
+Training model for iteration 80
+done training
+Correct prediction for iteration 80
+Training model for iteration 81
+done training
+Correct prediction for iteration 81
+Training model for iteration 82
+done training
+Correct prediction for iteration 82
+Training model for iteration 83
+done training
+Incorrect prediction for iteration 83
+Training model for iteration 84
+done training
+Correct prediction for iteration 84
+Training model for iteration 85
+done training
+Correct prediction for iteration 85
+Training model for iteration 86
+done training
+Incorrect prediction for iteration 86
+Training model for iteration 87
+done training
+Incorrect prediction for iteration 87
+Training model for iteration 88
+done training
+Incorrect prediction for iteration 88
+Training model for iteration 89
+done training
+Correct prediction for iteration 89
+Training model for iteration 90
+done training
+Correct prediction for iteration 90
+Training model for iteration 91
+done training
+Correct prediction for iteration 91
+Training model for iteration 92
+done training
+Correct prediction for iteration 92
+Training model for iteration 93
+done training
+Incorrect prediction for iteration 93
+Training model for iteration 94
+done training
+Incorrect prediction for iteration 94
+Training model for iteration 95
+done training
+Correct prediction for iteration 95
+Training model for iteration 96
+done training
+Correct prediction for iteration 96
+Training model for iteration 97
+done training
+Correct prediction for iteration 97
+Training model for iteration 98
+done training
+Correct prediction for iteration 98
+Training model for iteration 99
+done training
+Correct prediction for iteration 99
+Training model for iteration 100
+done training
+Correct prediction for iteration 100
+Training model for iteration 101
+done training
+Incorrect prediction for iteration 101
+Training model for iteration 102
+done training
+Incorrect prediction for iteration 102
+Training model for iteration 103
+done training
+Incorrect prediction for iteration 103
+Training model for iteration 104
+done training
+Incorrect prediction for iteration 104
+Training model for iteration 105
+done training
+Correct prediction for iteration 105
+Training model for iteration 106
+done training
+Correct prediction for iteration 106
+Training model for iteration 107
+done training
+Correct prediction for iteration 107
+Training model for iteration 108
+done training
+Correct prediction for iteration 108
+Training model for iteration 109
+done training
+Incorrect prediction for iteration 109
+Training model for iteration 110
+done training
+Incorrect prediction for iteration 110
+Training model for iteration 111
+done training
+Incorrect prediction for iteration 111
+Training model for iteration 112
+done training
+Incorrect prediction for iteration 112
+Training model for iteration 113
+done training
+Incorrect prediction for iteration 113
+Training model for iteration 114
+done training
+Incorrect prediction for iteration 114
+Training model for iteration 115
+done training
+Correct prediction for iteration 115
+Training model for iteration 116
+done training
+Correct prediction for iteration 116
+Training model for iteration 117
+done training
+Correct prediction for iteration 117
+Training model for iteration 118
+done training
+Correct prediction for iteration 118
+Training model for iteration 119
+done training
+Incorrect prediction for iteration 119
+Training model for iteration 120
+done training
+Correct prediction for iteration 120
+Training model for iteration 121
+done training
+Incorrect prediction for iteration 121
+Training model for iteration 122
+done training
+Correct prediction for iteration 122
+Training model for iteration 123
+done training
+Correct prediction for iteration 123
+Training model for iteration 124
+done training
+Incorrect prediction for iteration 124
+Training model for iteration 125
+done training
+Incorrect prediction for iteration 125
+Training model for iteration 126
+done training
+Incorrect prediction for iteration 126
+Training model for iteration 127
+done training
+Incorrect prediction for iteration 127
+Training model for iteration 128
+done training
+Incorrect prediction for iteration 128
+Training model for iteration 129
+done training
+Incorrect prediction for iteration 129
+Training model for iteration 130
+done training
+Incorrect prediction for iteration 130
+Training model for iteration 131
+done training
+Incorrect prediction for iteration 131
+Training model for iteration 132
+done training
+Incorrect prediction for iteration 132
+Training model for iteration 133
+done training
+Incorrect prediction for iteration 133
+Training model for iteration 134
+done training
+Correct prediction for iteration 134
+Training model for iteration 135
+done training
+Incorrect prediction for iteration 135
+Training model for iteration 136
+done training
+Incorrect prediction for iteration 136
+Training model for iteration 137
+done training
+Incorrect prediction for iteration 137
+Training model for iteration 138
+done training
+Correct prediction for iteration 138
+Training model for iteration 139
+done training
+Incorrect prediction for iteration 139
+Training model for iteration 140
+done training
+Incorrect prediction for iteration 140
+Training model for iteration 141
+done training
+Correct prediction for iteration 141
+Training model for iteration 142
+done training
+Incorrect prediction for iteration 142
+Training model for iteration 143
+done training
+Incorrect prediction for iteration 143
+Training model for iteration 144
+done training
+Correct prediction for iteration 144
+Training model for iteration 145
+done training
+Incorrect prediction for iteration 145
+Training model for iteration 146
+done training
+Incorrect prediction for iteration 146
+Training model for iteration 147
+done training
+Incorrect prediction for iteration 147
+Training model for iteration 148
+done training
+Incorrect prediction for iteration 148
+Training model for iteration 149
+done training
+Incorrect prediction for iteration 149
+Training model for iteration 150
+done training
+Correct prediction for iteration 150
+Training model for iteration 151
+done training
+Correct prediction for iteration 151
+Training model for iteration 152
+done training
+Incorrect prediction for iteration 152
+Training model for iteration 153
+done training
+Correct prediction for iteration 153
+Training model for iteration 154
+done training
+Correct prediction for iteration 154
+Training model for iteration 155
+done training
+Incorrect prediction for iteration 155
+Training model for iteration 156
+done training
+Incorrect prediction for iteration 156
+Training model for iteration 157
+done training
+Incorrect prediction for iteration 157
+Training model for iteration 158
+done training
+Incorrect prediction for iteration 158
+Training model for iteration 159
+done training
+Incorrect prediction for iteration 159
+Training model for iteration 160
+done training
+Correct prediction for iteration 160
+Training model for iteration 161
+done training
+Incorrect prediction for iteration 161
+Training model for iteration 162
+done training
+Correct prediction for iteration 162
+Training model for iteration 163
+done training
+Incorrect prediction for iteration 163
+Training model for iteration 164
+done training
+Incorrect prediction for iteration 164
+Training model for iteration 165
+done training
+Incorrect prediction for iteration 165
+Training model for iteration 166
+done training
+Correct prediction for iteration 166
+Training model for iteration 167
+done training
+Correct prediction for iteration 167
+Training model for iteration 168
+done training
+Incorrect prediction for iteration 168
+Training model for iteration 169
+done training
+Incorrect prediction for iteration 169
+Training model for iteration 170
+done training
+Correct prediction for iteration 170
+Training model for iteration 171
+done training
+Incorrect prediction for iteration 171
+Training model for iteration 172
+done training
+Correct prediction for iteration 172
+Training model for iteration 173
+done training
+Incorrect prediction for iteration 173
+Training model for iteration 174
+done training
+Incorrect prediction for iteration 174
+Training model for iteration 175
+done training
+Incorrect prediction for iteration 175
+Training model for iteration 176
+done training
+Incorrect prediction for iteration 176
+Training model for iteration 177
+done training
+Incorrect prediction for iteration 177
+Training model for iteration 178
+done training
+Incorrect prediction for iteration 178
+Training model for iteration 179
+done training
+Incorrect prediction for iteration 179
+Training model for iteration 180
+done training
+Correct prediction for iteration 180
+Training model for iteration 181
+done training
+Incorrect prediction for iteration 181
+Training model for iteration 182
+done training
+Incorrect prediction for iteration 182
+Training model for iteration 183
+done training
+Incorrect prediction for iteration 183
+Training model for iteration 184
+done training
+Correct prediction for iteration 184
+Training model for iteration 185
+done training
+Correct prediction for iteration 185
+Accuracy: 0.43010752688172044

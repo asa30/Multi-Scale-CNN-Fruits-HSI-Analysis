@@ -1,0 +1,2 @@
+model_checkpoint_path: "MSDCNN10150.ckpt"
+all_model_checkpoint_paths: "MSDCNN10150.ckpt"

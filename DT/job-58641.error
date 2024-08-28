@@ -1,0 +1,8 @@
+2024-04-11 20:22:19.281182: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Traceback (most recent call last):
+  File "/users/asa30/4thYearImplementation/DT/kiwi_vis_dt_loocv.py", line 72, in <module>
+    results, all_pred = LOOCV(all_kiwi_VIS, augment=False, balance=False, verbose=1)
+  File "/users/asa30/4thYearImplementation/DT/kiwi_vis_dt_loocv.py", line 38, in LOOCV
+    dt = DecisionTreeClassifier(kernel='rbf')
+TypeError: __init__() got an unexpected keyword argument 'kernel'
